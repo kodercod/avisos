@@ -1,0 +1,15 @@
+{
+  "versao": 1,
+  "avisos": [
+    {
+      "id": 3,
+      "ativo": true,
+      "cliente_ids": ["TODOS"],
+      "tipo": "critico",
+      "titulo": "🔴 Instabilidade no sistema",
+      "mensagem": "Identificamos uma instabilidade. Nossa equipe já está trabalhando na resolução.",
+      "fixo": true,
+      "criado_em": "2026-08-21T12:48:00-03:00"
+    }
+  ]
+}
