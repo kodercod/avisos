@@ -2,14 +2,14 @@
   "versao": 1,
   "avisos": [
     {
-      "id": 2,
+      "id": 3,
       "ativo": true,
       "cliente_ids": ["TODOS"],
       "tipo": "critico",
       "titulo": "Nova atualização disponivel",
       "mensagem": "Temos uma nova versão do sistema, entre em contato com o Suporte",
       "fixo": true,
-      "criado_em": "2026-08-21T12:36:00-03:00"
+      "criado_em": "2026-08-21T15:20:00-03:00"
     }
   ]
 }
