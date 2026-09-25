@@ -2,12 +2,12 @@
   "versao": 1,
   "avisos": [
     {
-      "id": 9,
+      "id": 10,
       "ativo": true,
       "cliente_ids": ["TODOS"],
       "tipo": "critico",
-      "titulo": "Nova atualização disponivel",
-      "mensagem": "Temos uma nova versão do sistema, entre em contato com o Suporte",
+      "titulo": "tchola",
+      "mensagem": "Você é legal mano!",
       "fixo": true,
       "criado_em": "2026-09-25T15:15:57-03:00"
     }
