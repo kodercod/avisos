@@ -2,7 +2,7 @@
   "versao": 1,
   "avisos": [
     {
-      "id": 6,
+      "id": 7,
       "ativo": true,
       "cliente_ids": ["TODOS"],
       "tipo": "critico",
