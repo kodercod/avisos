@@ -24,6 +24,18 @@
       "fixo": true,
       "criado_em": "2026-09-28T12:26:47-03:00",
       "id": 11
+    },
+    {
+      "ativo": true,
+      "cliente_ids": [
+        "TODOS"
+      ],
+      "tipo": "info",
+      "titulo": "teste notificação 2",
+      "mensagem": "teste de notificação com link",
+      "fixo": true,
+      "criado_em": "2026-09-28T15:07:35-03:00",
+      "id": 12
     }
   ]
 }
