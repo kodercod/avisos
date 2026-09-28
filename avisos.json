@@ -4,12 +4,26 @@
     {
       "id": 10,
       "ativo": true,
-      "cliente_ids": ["TODOS"],
+      "cliente_ids": [
+        "TODOS"
+      ],
       "tipo": "critico",
       "titulo": "tchola",
       "mensagem": "Você é legal mano!",
       "fixo": true,
       "criado_em": "2026-09-25T15:15:57-03:00"
+    },
+    {
+      "ativo": true,
+      "cliente_ids": [
+        "TODOS"
+      ],
+      "tipo": "info",
+      "titulo": "teste",
+      "mensagem": "teste notificação",
+      "fixo": true,
+      "criado_em": "2026-09-28T12:26:47-03:00",
+      "id": 11
     }
   ]
 }
