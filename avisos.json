@@ -49,6 +49,19 @@
       "criado_em": "2026-09-28T15:13:17-03:00",
       "whatsapp_url": "https://wa.me/5517997026152?text=teste%20de%20notificação",
       "id": 13
+    },
+    {
+      "ativo": true,
+      "cliente_ids": [
+        "TODOS"
+      ],
+      "tipo": "info",
+      "titulo": "teste 4",
+      "mensagem": "teste 4 com link de notificação",
+      "fixo": true,
+      "criado_em": "2026-09-28T15:38:14-03:00",
+      "whatsapp_url": "https://wa.me/5517997026152?text=teste%20de%20notificação",
+      "id": 14
     }
   ]
 }
