@@ -62,6 +62,18 @@
       "criado_em": "2026-09-28T15:38:14-03:00",
       "whatsapp_url": "https://wa.me/5517997026152?text=teste%20de%20notificação",
       "id": 14
+    },
+    {
+      "ativo": true,
+      "cliente_ids": [
+        "07616948000115"
+      ],
+      "tipo": "info",
+      "titulo": "teste envio agroatta",
+      "mensagem": "teste envio agroatta",
+      "fixo": true,
+      "criado_em": "2026-09-29T12:28:03-03:00",
+      "id": 15
     }
   ]
 }
