@@ -74,6 +74,18 @@
       "fixo": true,
       "criado_em": "2026-09-29T12:28:03-03:00",
       "id": 15
+    },
+    {
+      "ativo": true,
+      "cliente_ids": [
+        "01727308000104"
+      ],
+      "tipo": "info",
+      "titulo": "teste notificação JEAN",
+      "mensagem": "Jean é tchola",
+      "fixo": true,
+      "criado_em": "2026-09-29T12:38:37-03:00",
+      "id": 16
     }
   ]
 }
